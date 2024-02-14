@@ -1,0 +1,20 @@
+
+
+
+# Borrar entorno conda
+conda env remove --name PyProcces
+
+
+
+
+# Crear entorno conda
+conda env create -f environment_PyProcces.yml
+
+
+
+
+# Actualizar lista CON EL ENTORNO PyProcces ACTIVADO!!!
+conda list > contenido_entorno_PyProcces.txt
+
+
+
