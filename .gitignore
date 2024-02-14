@@ -1,3 +1,7 @@
+
+# Ignorar archivos mp4
++.mp4
+
 # Ignorar archivos .png
 *.png
 
@@ -6,6 +10,7 @@
 
 # Ignorar archivos .nc
 *.nc
+
 
 # Ignorar archivos de Jupyter Notebook
 .ipynb_checkpoints/
