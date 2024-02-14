@@ -1,0 +1,12 @@
+# Ignorar archivos .png
+*.png
+
+# Ignorar archivos .tiff
+*.tiff
+
+# Ignorar archivos .nc
+*.nc
+
+# Ignorar archivos de Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
